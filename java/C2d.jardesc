@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="c2d/java/C2d.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/c2d/java/C2d.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=c2d/java\/src&lt;{C2d.java[C2d" manifestLocation="/c2d/java/C2d" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/c2d/asm/bar"/>
+        <javaElement handleIdentifier="=c2d/java\/src"/>
+        <folder path="/c2d/java/res"/>
+        <file path="/c2d/asm/loader"/>
+    </selectedElements>
+</jardesc>
