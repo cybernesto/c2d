@@ -16,6 +16,7 @@
 *  Platforms tested:
 	*  32-bit/64-bit x86 MacOS|OS/X.
 	*  32-bit x86 Windows/MinGW.
+	*  Java SE 8 
 
 
 ### Download
